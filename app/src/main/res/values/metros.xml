@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="line1">#FF005689</color>
+    <color name="line2">#FF00AD4D</color>
+    <color name="line3">#FFF26522</color>
+    <color name="line4">#FF00A0CC</color>
+    <color name="line5">#FF7851A1</color>
+    <color name="line6">#FF6B3D24</color>
+    <color name="line7">#FF6A6F37</color>
+    <color name="line8">#FFED0973</color>
+    <color name="line9">#FF9E9889</color>
+    <color name="gyeongui_jung_line">#FF65C5B4</color>
+    <color name="shinbundang_line">#FFC1353C</color>
+    <color name="shuin_bundang_line">#FFEB9D28</color>
+    <color name="airport_railroad">#FF006893</color>
+    <color name="incheon_line1">#FF7BAFDE</color>
+    <color name="gtx_a">#FFA06390</color>
+    <color name="uijeongbu_lrt_line">#FFDF7627</color>
+    <color name="ui_lrt_line">#FFb5C834</color>
+    <color name="gimpo_goldline">#FF907135</color>
+    <color name="incheon_line2">#FFF89F6A</color>
+    <color name="ever_line">#FF75B443</color>
+    <color name="sillim_line">#FF5481C1</color>
+    <color name="gyeongchun_line">#FF006755</color>
+    <color name="gyeonggang_line">#FF32386B</color>
+    <color name="seohae_line">#FF59AA47</color>
+</resources>
