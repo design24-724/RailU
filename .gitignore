@@ -79,3 +79,10 @@ Thumbs.db
 
 # Custom project icon
 RailU.svg
+
+# Exclude all common image formats
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
